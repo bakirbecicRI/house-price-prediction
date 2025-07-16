@@ -1,5 +1,5 @@
 
-# House Price Prediction using Linear Regression
+# House Price Prediction using Linear Regression Implemented from Scratch (No sklearn or other ML libraries)
 
 This project implements **linear regression with one variable** from scratch using **gradient descent**, to predict house prices based on their size.
 
@@ -37,7 +37,7 @@ Size,Price
 ## Features
 
 - ✅ Compute cost function \( J(w, b) \)
-- ✅ Compute gradients \( \frac{\partial J}{\partial w}, \frac{\partial J}{\partial b} \)
+- ✅ Compute gradients algorithm
 - ✅ Gradient descent optimization
 - ✅ Plot of training data and regression line
 - ✅ Price prediction for any given house size
